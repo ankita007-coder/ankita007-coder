@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita007-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ankita007-coder" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Next.Js**
 
 - 👨‍💻 All of my projects are available at [https://bewildered-pike-capris.cyclic.app/](https://bewildered-pike-capris.cyclic.app/)
 
