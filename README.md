@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN Stack, Python and Salesforce**
 
-- 📫 How to reach me **ankitabudhia03@gmail.com**
+- 📫 How to reach me **ankitabudhia0302@gmail.com**
 
 - 📄 Know about my experiences [http://tinyurl.com/ankitabudhia](http://tinyurl.com/ankitabudhia)
 
