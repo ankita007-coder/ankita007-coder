@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ankita Budhia</h1>
-<h3 align="center">MERN Stack Developer with a Salesforce Twist</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita007-coder&label=Profile%20views&color=0e75b6&style=flat" alt="ankita007-coder" /> </p>
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [https://bewildered-pike-capris.cyclic.app/](https://bewildered-pike-capris.cyclic.app/)
+- 👨‍💻 All of my projects are available at [https://ankita-budhia.netlify.app/](https://ankita-budhia.netlify.app/)
 
-- 💬 Ask me about **MERN Stack, Python and Salesforce**
+- 💬 Ask me about **MERN Stack and Python**
 
 - 📫 How to reach me **ankitabudhia0302@gmail.com**
 
