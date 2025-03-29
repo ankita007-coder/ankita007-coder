@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next.Js**
 
-- 👨‍💻 All of my projects are available at [https://ankitabudhia.netlify.app/](https://ankitabudhia.netlify.app/)
-
 - 💬 Ask me about **MERN Stack and Python**
 
 - 📫 How to reach me **ankitabudhia0302@gmail.com**
