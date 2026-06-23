@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ankitabudhia0302@gmail.com**
 
-- 📄 Know about my experiences [http://tinyurl.com/ankitabudhia](http://tinyurl.com/ankitabudhia)
+- 📄 Know about my experiences [https://ankita-budhia.netlify.app/](https://ankita-budhia.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
